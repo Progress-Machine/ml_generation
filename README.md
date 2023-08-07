@@ -5,10 +5,10 @@
 Алгоритм генерации заднего фона реализован в background_generation.py и основан на удалении заднего фона с помощью [u2-net](https://github.com/danielgatis/rembg) + инпэинтинга кандинским.  
 Генерит смешные неадекватные задние фоны для картинок, которые обязательно привлекут внимание покупателя. Лучше всего юзать для фото с уже удалённым задним фоном или с нейтральным фоном.  
 Примеры:  
-<img src="examples/samples/apple1.jpg" width="200" />
-<img src="examples/samples/apple2.jpg" width="200" />
-<img src="examples/samples/apple3.jpg" width="200" />
-<img src="examples/samples/apple4.jpg" width="200" />
+<img src="examples/samples/apple1.jpg" width="100" />
+<img src="examples/samples/apple2.jpg" width="100" />
+<img src="examples/samples/apple3.jpg" width="100" />
+<img src="examples/samples/apple4.jpg" width="100" />
 
 #### Установка и использование
 ```python
